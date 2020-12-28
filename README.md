@@ -5,13 +5,13 @@
 <a href="#"><img title="G4zBOTs Project" src="https://img.shields.io/badge/G4zBOTs Project-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/TobyG74"><img title="Author" src="https://img.shields.io/badge/Author-M4n9-B4G4Z-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/M4n9-B4G4Z"><img title="Author" src="https://img.shields.io/badge/Author-M4n9 B4G4Z-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/M4n9-B4G4Z/followers"><img title="Followers" src="https://img.shields.io/github/followers/TobyG74?color=blue&style=flat-square"></a>
-<a href="https://github.com/M4n9-B4G4Z/megumikato2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/TobyG74/ElainaBOT?color=red&style=flat-square"></a>
-<a href="https://github.com/M4n9-B4G4Z/megumikato2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/TobyG74/ElainaBOT?color=red&style=flat-square"></a>
-<a href="https://github.com/M4n9-B4G4Z/megumikato2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/TobyG74/ElainaBOT?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/M4n9-B4G4Z/followers"><img title="Followers" src="https://img.shields.io/github/followers/M4n9-B4G4Z?color=blue&style=flat-square"></a>
+<a href="https://github.com/M4n9-B4G4Z/megumikato2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/M4n9-B4G4Z/G4zBOTs-Project?color=red&style=flat-square"></a>
+<a href="https://github.com/M4n9-B4G4Z/megumikato2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/M4n9-B4G4Z/G4zBOTs-Project?color=red&style=flat-square"></a>
+<a href="https://github.com/M4n9-B4G4Z/megumikato2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/M4n9-B4G4Z/G4zBOTs-Project?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 <p align='center'>
    <a href="https://instagram.com/bagazzzsss"><img height="30" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png"></a>&nbsp;&nbsp;
